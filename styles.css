@@ -32,12 +32,12 @@ img {
 
 .big-heading {
   font-family: "Prata";
-  font-size: 3.5rem;
+  font-size: 3.5em;
   line-height: 1.5;
 }
 
 .section-heading {
-  font-size: 3rem;
+  font-size: 3em;
   line-height: 1.5;
 }
 
@@ -105,7 +105,7 @@ img {
 
 .navbar-brand {
   font-family: "Prata";
-  font-size: 2.5rem;
+  font-size: 2.5em;
   /* font-weight: bold; */
 }
 
@@ -115,7 +115,7 @@ img {
 }
 
 .nav-link {
-  font-size: 1.2rem;
+  font-size: 1.2em;
   font-family: "Montserrat";
 }
 
@@ -126,7 +126,7 @@ img {
 }
 
 .feature-title {
-  font-size: 1.5rem;
+  font-size: 1.5em;
 }
 
 .feature-box {
@@ -135,7 +135,7 @@ img {
 
 .icon {
   color: #ff7266;
-  margin-bottom: 1rem;
+  margin-bottom: 1em;
 }
 
 .icon:hover {
@@ -152,7 +152,7 @@ img {
 }
 
 .testimonial-text {
-  font-size: 3rem;
+  font-size: 3em;
   line-height: 1.5;
 }
 /* Footer Section */
@@ -168,7 +168,7 @@ img {
 }
 
 #footer p{
-  font-size: 0.75rem;
+  font-size: 0.75em;
   color: grey;
   text-align: center;
 }
@@ -192,5 +192,5 @@ img {
 /* Terms sections */
 
 #privacy {
-  font-size: 0.75rem;
+  font-size: 0.75em;
 }
