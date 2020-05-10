@@ -120,6 +120,16 @@ img {
   font-family: "Montserrat";
 }
 
+#navbarmain{
+  font-size: 0.75em;
+  vertical-align: middle;
+  color: white;
+  }
+
+.nav a{
+  color: grey;
+}
+
 /* Features Section */
 
 #features {
