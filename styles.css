@@ -190,6 +190,30 @@ img {
   color: #375f68;
   text-align: left;
 }
+.inspiration{
+  color: #ff005c;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.insights{
+  color: #00c4cc;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.updates{
+  color: #03989e;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+
+
+.row {
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+}
 
 #post h2{
   color: #ff005c;
