@@ -85,6 +85,11 @@ img {
   color: #fff;
 }
 
+.webp .title-section {background-image: url('cover.webp');}
+.jpeg2000 .title-section {background-image: url('cover.jp2');}
+.jpegxr .title-section {background-image: url('cover.jpx');}
+
+
 .colored-section-green {
   background-color: #03989e;
   padding: 5% 15%;
